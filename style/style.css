@@ -180,19 +180,6 @@ body {
     color: #dc2626;
 }
 
-.rodape {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    padding:2px;
-    color: white;
-    background-color: var(--cor--segundaria);
-    text-align: center;
-    font-size: 1.25rem;
-    font-weight: 400;
-}
-
 @media screen and (max-width: 1024px) {
     #img {
         display: none;
